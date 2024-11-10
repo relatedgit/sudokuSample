@@ -13,6 +13,7 @@ import com.sudoku.validator.SudokuValidator;
 
 public class Main {
     public static void main(String[] args) {
+        System.out.println("First Change Initiated");
         int[][] initialBoard = {
                 {5, 3, 0, 0, 7, 0, 0, 0, 0},
                 {6, 0, 0, 1, 9, 5, 0, 0, 0},
